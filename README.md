@@ -1,1 +1,1 @@
-# ryu-lab.github.io
+# r-lab
